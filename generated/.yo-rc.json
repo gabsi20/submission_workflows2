@@ -1,0 +1,19 @@
+{
+  "generator-04-generator": {
+    "name": "Yo_Test_Project",
+    "description": "This is the first, yeomen generated projekt",
+    "title": "Generatortest",
+    "author": [
+      "Alexander Gabriel <agabriel.mmt-b2014@fh-salzburg.ac.at>",
+      "gabsi20 <gabsi20@users.noreply.github.com>",
+      "Sebastian Huber <fhs37229@fh-salzburg.ac.at>",
+      "Sebastian Huber <shuber.mmt-b2014@fh-salzburg.ac.at>"
+    ],
+    "license": "MIT",
+    "main": "app/index.html",
+    "engine": [
+      "^5.0.0",
+      "^3.0.0"
+    ]
+  }
+}
